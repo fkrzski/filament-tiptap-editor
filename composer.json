@@ -1,5 +1,5 @@
 {
-  "name": "canyongbs/filament-tiptap-editor",
+  "name": "fkrzski/filament-tiptap-editor",
   "type": "package",
   "description": "A Tiptap integration for Filament Admin/Forms.",
   "keywords": [
@@ -13,8 +13,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Adam Weston",
-      "email": "awcodes1@gmail.com",
+      "name": "Filip Krzyżanowski",
+      "email": "filip.krzyzanowski@protonmail.com",
       "role": "Developer"
     }
   ],
